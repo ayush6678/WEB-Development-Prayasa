@@ -1,12 +1,18 @@
 .top
 {
-  background-color: pink;
+  background-color: rgb(254, 197, 207);
+  font-size: .6cm;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .middle
 {
-  background-color: #E4F9F5;
+  background-color: #cbfdf3;
+  font-size: .6cm;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .last
 {
-  background-color: #CDF2CA;
+  background-color: #cdffcb;
+  font-size: .6cm;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
